@@ -1,0 +1,13 @@
+{
+  "name": "new-passwd",
+  "version": "1.0.0",
+  "description": "ganerate new password",
+  "main": "dist/main.js",
+  "repository": "https://github.com/kiochan/new-passwd.git",
+  "author": "Xingchen Sun <sunxingchen@live.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
+}
